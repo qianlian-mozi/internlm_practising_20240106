@@ -4,4 +4,4 @@ codes_changed文件夹里展示了修改过后的分割创建数据库的文件�
 
 应用方面补充：
 应用所用的github repo链接：https://github.com/qianlian-mozi/langchain_work3_240113/tree/main
-应用链接（待补充）：
+应用链接：https://openxlab.org.cn/apps/detail/qianlianmoki/langchain_knowledge_det_campwork3
